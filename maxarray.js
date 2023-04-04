@@ -20,4 +20,4 @@ var maxArea = function (height) {
     return Math.max(...maxarray);
   };
   
-  console.log(maxArea(arr));
+  maxArea(arr)
